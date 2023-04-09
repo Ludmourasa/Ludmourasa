@@ -19,8 +19,10 @@
   </p>
 </div>
 
-<div>  
-  ![Snake animation](https://github.com/Ludmourasa/Ludmilla_Moura/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
-  
+<div> 
+  <p align="center">
+     <a href="https://www.instagram.com/rpdana_/">
+         <img align="right" alt="Instagram" src="https://cdn.discordapp.com/attachments/836712599180935248/983117007748747354/unknown.png"
+         width=30" height="30">
+      </a>
+                              
