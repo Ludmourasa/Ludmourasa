@@ -6,7 +6,24 @@
 
 <p align="center">
   Marketeira, apaixonada por Tecnologia ... 
+<br><br>
+🌟 Analista de Marketing
+<br>
+📈 Pós em Marketing e Growth
+<br>
+🧠 MBA em Inteligência Competitiva e Inovação em Marketing
 </p>
+
+<br>
+
+<div>
+	<p align="center">
+	  <img align="center" alt="Lud-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	  <img align="center" alt="Lud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	  <img align="center" alt="Lud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	  <img align="center" alt="Lud-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	</p>
+</div>
 
 <br>
 
