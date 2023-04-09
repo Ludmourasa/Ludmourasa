@@ -21,7 +21,7 @@
 
 <div> 
   <p align="center">
-     <a href="https://www.instagram.com/rpdana_/">
+     <a href="https://www.instagram.com//">
          <img align="right" alt="Instagram" src="https://cdn.discordapp.com/attachments/836712599180935248/983117007748747354/unknown.png"
          width=30" height="30">
       </a>
