@@ -11,7 +11,7 @@
 <br>
 📈 Pós em Marketing e Growth
 <br>
-🧠 MBA em Inteligência Competitiva e Inovação em Marketing
+🧠 Tecnólogo em Analise e Desenvolvimento de Sistemas - UniCesumar
 </p>
 
 <br>
