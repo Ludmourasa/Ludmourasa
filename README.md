@@ -6,12 +6,15 @@
 
 <p align="center">
   Marketeira, apaixonada por Tecnologia ... 
-<br><br>
-🌟 Analista de Marketing
-<br>
-📈 Pós em Marketing e Growth
-<br>
-🧠 Tecnólogo em Analise e Desenvolvimento de Sistemas - UniCesumar
+	
+	<br>
+	🌟 Analista de Marketing
+	<br>
+ 🤓 Graduada em Relações Internacionais - Uninter
+	<br>
+	📈 Pós em Marketing e Growth
+	<br>
+	🧠 Tecnólogo em Analise e Desenvolvimento de Sistemas - UniCesumar
 </p>
 
 <br>
