@@ -6,7 +6,7 @@
 
 <p align="center">
   Marketeira, apaixonada por Tecnologia ... 
-	
+	<br>
 	<br>
 	🌟 Analista de Marketing
 	<br>
